@@ -1,1 +1,0 @@
-# jinu-jacob.github.io
