@@ -1,6 +1,6 @@
 ![](/images/PicsArt_12-21-08.20.16.png)
 # Jinu Jacob Abraham 
-##### *An Aspiring Data Scientist | Physics enthusiast*
+##### *Data Science | Physics  | Tech enthusiast*
 
 ## Education
 - Bachelors in Physics from **Univercity of Calicut**
