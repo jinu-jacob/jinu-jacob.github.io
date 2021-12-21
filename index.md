@@ -4,6 +4,7 @@
 
 ## Education
 - Bachelors in Physics from **Univercity of Calicut**
+- [Basic Course in Astronomy](https://drive.google.com/file/d/1pXsSWMzqTAH_q58qOIBMrrrfZjk7iR9K/view?usp=sharing) by **Breakthrough Science Society**
 - Currentky pursuing Bachelors in Data Science from **IIT Madras**
 - Pursuing Masters in Physics from **Univercity of Calicut**
 
