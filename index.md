@@ -13,7 +13,7 @@
 
 # Projects
 ## 1. [Ultrasonic Distance Measurement Using Arduino](https://docs.google.com/document/d/1cZog1Ne-FRhU-hvb9R1O6JZBm24AjLVK/edit?usp=sharing&ouid=100316902648490868548&rtpof=true&sd=true)
-![Ultrasonic Distance Measurement Using Arduino](/images/6201943526183382593_120.jpg)
+![Ultrasonic Distance Measurement Using Arduino](/images/PicsArt_12-22-12.31.41.jpg)
 ##### [View Code](https://github.com/jinu-jacob/Distance-measurement-Project)
 
 # Certifications
