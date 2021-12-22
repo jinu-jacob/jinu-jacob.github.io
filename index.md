@@ -1,7 +1,6 @@
 ![](/images/PicsArt_12-21-08.20.16.png)
 ##### *Data Science &nbsp; | &nbsp; Physics &nbsp; | &nbsp; Tech enthusiast*
-# 
-# 
+
 
 
 &nbsp;
@@ -21,9 +20,9 @@
 -  [Compleated *Basic Course in Astronomy*](https://drive.google.com/file/d/1pXsSWMzqTAH_q58qOIBMrrrfZjk7iR9K/view?usp=sharing) by *Breakthrough Science Society*
 
 
-#
+
 
 
 &nbsp;
-## Contact me
+# Contact me
 [![](/images/linkedin.png)](https://www.linkedin.com/in/jinu-jacob-abraham-13b395155/)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     [![](/images/instagram.png)](https://www.instagram.com/_jinujacob)
