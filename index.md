@@ -25,4 +25,4 @@
 
 &nbsp;
 # Contact me
-[![](/images/linkedin.png)](https://www.linkedin.com/in/jinu-jacob-abraham-13b395155/)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     [![](/images/instagram.png)](https://www.instagram.com/_jinujacob)
+[![](/images/linkedin.png)](https://www.linkedin.com/in/jinu-jacob-abraham-13b395155/)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     [![](/images/insta.png)](https://www.instagram.com/_jinujacob)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     [![](/images/github.png)](https://github.com/jinu-jacob)
