@@ -2,7 +2,6 @@
 ##### *Data Science &nbsp; | &nbsp; Physics &nbsp; | &nbsp; Tech enthusiast*
 
 
-
 &nbsp;
 &nbsp;
 
@@ -15,7 +14,6 @@ I'm a student from Kerala who believes in the power of science and data. Current
 &nbsp;
 
 </div>
-
 
 # Education
 
