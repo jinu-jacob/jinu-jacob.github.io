@@ -25,7 +25,7 @@ I'm a student from Kerala who believes in the power of science and data. Current
 # Projects
 ## 1. [Ultrasonic Distance Measurement Using Arduino](https://docs.google.com/document/d/1cZog1Ne-FRhU-hvb9R1O6JZBm24AjLVK/edit?usp=sharing&ouid=100316902648490868548&rtpof=true&sd=true)
 ![Ultrasonic Distance Measurement Using Arduino](/images/PicsArt_12-22-12.31.41.jpg)
-##### [View Code](https://github.com/jinu-jacob/Distance-measurement-Project)
+
 
 # Certifications
 -  [Compleated *Basic Course in Astronomy*](https://drive.google.com/file/d/1pXsSWMzqTAH_q58qOIBMrrrfZjk7iR9K/view?usp=sharing) by *Breakthrough Science Society*
